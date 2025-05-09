@@ -1,0 +1,230 @@
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\appsettings.json
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.exe
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.deps.json
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.pdb
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.RazorAssemblyInfo.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.RazorAssemblyInfo.cs
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets\msbuild.build.Test.props
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test.props
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\scopedcss\bundle\Test.styles.css
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.csproj.Up2Date
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.dll
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\refint\Test.dll
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.pdb
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+c:\Users\sanat\Documents\Test\obj\Debug\net8.0\ref\Test.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\System.Data.SqlClient.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\sanat\Documents\Test\bin\Debug\net8.0\Test.staticwebassets.runtime.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\appsettings.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.staticwebassets.runtime.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.exe
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.deps.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.runtimeconfig.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Test.pdb
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Data.SqlClient.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.AssemblyInfo.cs
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.RazorAssemblyInfo.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.RazorAssemblyInfo.cs
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.build.Test.props
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test.props
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\scopedcss\bundle\Test.styles.css
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.csproj.Up2Date
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\refint\Test.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.pdb
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\Test.genruntimeconfig.cache
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\obj\Debug\net8.0\ref\Test.dll
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\package-lock.json
+c:\Users\sanat\OneDrive\Documents\PCD\extension تدخلات\bin\Debug\net8.0\package.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\appsettings.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\package-lock.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\package.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.staticwebassets.runtime.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.staticwebassets.endpoints.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.exe
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.deps.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Test.pdb
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.RazorAssemblyInfo.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.RazorAssemblyInfo.cs
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.sourcelink.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\scopedcss\bundle\Test.styles.css
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.build.Test.props
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test.props
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.csproj.Up2Date
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\refint\Test.dll
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.pdb
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Users\Ayoub Hammami\198\extension-تدخلات\obj\Debug\net8.0\ref\Test.dll

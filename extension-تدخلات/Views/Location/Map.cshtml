@@ -1,0 +1,338 @@
+
+@{
+    ViewData["Title"] = "Map";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js"></script>
+
+    <link href="~/Style/map.css" rel="stylesheet"/>
+  
+</head>
+<body>
+    <div class="NavBar">
+        <div class="user">
+            <p>سناء الطرابلسي</p>
+            <img src="~/img/user-solid.svg" alt="">
+            <img src="~/img/bell-solid.svg" alt="">
+        </div>
+        <div class="Title">
+            <div>
+                <h3>مركز العمليات</h3>
+            </div>
+            <div class="ONPC">
+                <h3>الديوان الوطني للحماية المدنية</h3>
+                <img src="~/img/logo-min.png" alt="">
+            </div>
+            
+        </div>
+        <div class="Content">
+            <div class="Component">
+                <a href="showlocation.php">
+                <h4>198</h4> &nbsp;
+                <img src="~/img/phone-volume-solid (1).svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt=""> &nbsp;
+                <h4>الطباعة</h4>&nbsp;
+                <img src="~/img/print-solid.svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt="">&nbsp;
+                <h4>الإحصائيات</h4>&nbsp;
+                <img src="~/img/chart-column-solid (1).svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <h4>التعطب و الإصلاح</h4>&nbsp;
+                <img src="~/img/wrench-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>متابعة الأفراد</h4>&nbsp;
+                <img src="~/img/users-solid.svg" alt="">
+                </a>
+            </div>
+           
+            <div class="Component">
+                <a href="">
+                <h4>إشعار فوري</h4>&nbsp;
+                <img src="~/img/bolt-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                <h4>الحوصلة الصحية</h4>&nbsp;
+                <img src="~/img/circle-nodes-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>التفقدات</h4>&nbsp;
+                <img src="~/img/toolbox-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt="">&nbsp;
+                <h4>الحراسات الوقائية</h4>&nbsp;
+                <img src="~/img/signal-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>التعزيز</h4>&nbsp;
+                <img src="~/img/arrow-turn-down-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+               
+                <h4>الإطلاع على التدخلات</h4>&nbsp;
+                <img src="~/img/file-lines-solid.svg" alt="">
+                </a>
+            </div>
+           
+            <div class="Component">
+                <a href="">
+                
+                <h4>التدخلات الجارية</h4>&nbsp;
+                <img src="~/img/phone-volume-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+               
+                <h4>لوحة التحكم</h4>&nbsp;
+                <img src="~/img/house-solid.svg" alt="">
+                </a>
+            </div>
+            
+            
+        </div>
+    </div>
+    <div id="map">
+        <div id="mapContainer"></div>
+        <!-- Ajouter une div pour contenir les détails de l'utilisateur -->
+        <div id="userDetailsContainer">
+            <span id="closeButton">&times;</span>
+            <div id="userData"></div>
+        </div>
+    </div>
+    
+    <!-- Bouton pour afficher la boîte de messagerie -->
+    <img class="image-overlay" src="~/img/comment-solid (1).svg" alt="" onclick="showMessagingBox()">
+    <!-- Boîte de messagerie -->
+    <div id="messagingBox" class="messaging-box">
+        <span class="close-button" onclick="hideMessagingBox()">X</span>
+        <div class="recipient" data-userid="@ViewBag.UserId">
+        <img src="" alt="">
+        <span class="recipient-name" data-userid="@ViewBag.UserId">@ViewBag.RecipientName</span>
+        </div>
+        
+        <h2>Service de messagerie</h2>
+        <div id="messageArea" style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;"></div>
+        &nbsp; <input type="text" id="messageInput" placeholder="Entrez votre message..."> 
+        <button onclick="sendMessage()" class="buttonstyle">Envoyer</button>
+    </div>
+    
+    <script>
+    // Fonction pour afficher la boîte de messagerie
+    function showMessagingBox() {
+        var messagingBox = document.getElementById('messagingBox');
+        messagingBox.style.display = 'block';
+    }
+
+    // Fonction pour masquer la boîte de messagerie
+    function hideMessagingBox() {
+        var messagingBox = document.getElementById('messagingBox');
+        messagingBox.style.display = 'none';
+    }
+
+    const socket = io('http://localhost:4000');
+
+        // Gestionnaire d'événement pour la réception de messages du serveur destinés au web
+    socket.on('sendMessageToWeb', (message) => {
+    console.log('Message received from server on web:', message);
+    // Afficher le message dans la console du navigateur
+    console.log(message);
+    var messageArea = document.getElementById('messageArea');
+    messageArea.innerHTML += '<div style="border: 1px solid #ccc;border-radius:10px; padding: 5px; margin-bottom: 10px; background-color: rgb(174, 214, 241); max-width: 300px; word-wrap: break-word;">' + message + '</div>';
+});
+
+// Gestionnaire d'événement pour recevoir les messages du serveur destinés au web (y compris les URI d'image)
+socket.on('sendImageToWeb', (imageUrl) => {
+    console.log('Image URI received from server:', imageUrl);
+    // Afficher l'image dans la zone de messagerie
+    var messageArea = document.getElementById('messageArea');
+    // Créer un conteneur <div> pour chaque image
+    var imageContainer = document.createElement('div');
+    imageContainer.style.marginBottom = '10px'; // Ajouter une marge en bas pour séparer les images
+    // Créer un élément <img> pour afficher l'image
+    var imgElement = document.createElement('img');
+    imgElement.src = imageUrl;
+    imgElement.style.width = '300px'; // Définir la largeur de l'image
+    imgElement.style.height = '150px'; // Définir la hauteur de l'image
+    imgElement.style.borderRadius = '10px'; // Ajouter un bord arrondi
+    imgElement.style.cursor = 'pointer'; // Changer le curseur pour indiquer que l'image est cliquable
+    // Ajouter un gestionnaire d'événements pour écouter les clics sur l'image
+    imgElement.addEventListener('click', function() {
+        // Créer une fenêtre modale pour afficher l'image agrandie
+        var modal = document.createElement('div');
+        modal.style.position = 'fixed';
+        modal.style.top = '0';
+        modal.style.left = '0';
+        modal.style.width = '100%';
+        modal.style.height = '100%';
+        modal.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
+        modal.style.display = 'flex';
+        modal.style.alignItems = 'center';
+        modal.style.justifyContent = 'center';
+        modal.style.zIndex = '9999';
+        // Créer un élément <img> pour afficher l'image agrandie dans la fenêtre modale
+        var enlargedImg = document.createElement('img');
+        enlargedImg.src = imageUrl;
+        enlargedImg.style.maxWidth = '90%';
+        enlargedImg.style.maxHeight = '90%';
+        // Ajouter l'élément <img> à la fenêtre modale
+        modal.appendChild(enlargedImg);
+        // Ajouter un gestionnaire d'événements pour fermer la fenêtre modale lorsque l'utilisateur clique en dehors de l'image
+        modal.addEventListener('click', function(event) {
+            if (event.target === modal) {
+                modal.remove();
+            }
+        });
+        // Ajouter la fenêtre modale à la page
+        document.body.appendChild(modal);
+    });
+    // Ajouter l'élément <img> au conteneur d'image
+    imageContainer.appendChild(imgElement);
+    // Ajouter le conteneur d'image à la zone de messagerie
+    messageArea.appendChild(imageContainer);
+});
+
+socket.on('sendAudioToWeb', (audioData) => {
+    console.log('Audio URI received from server:', audioData);
+    // Créer un nouvel élément audio pour chaque enregistrement
+    var audioElement = document.createElement('audio');
+    audioElement.src = audioData;
+    audioElement.controls = true; // Afficher les contrôles de lecture
+    
+    // Créer un élément <div> pour contenir l'enregistrement audio
+    var audioDiv = document.createElement('div');
+    // Ajouter l'élément audio à ce <div>
+    audioDiv.appendChild(audioElement);
+    
+    // Ajouter le <div> à la zone de messagerie pour chaque enregistrement
+    var messageArea = document.getElementById('messageArea');
+    messageArea.appendChild(audioDiv);
+    
+    // Ajouter un saut de ligne après chaque enregistrement
+    var lineBreak = document.createElement('br');
+    messageArea.appendChild(lineBreak);
+});
+
+        
+
+
+// Fonction pour envoyer un message au serveur
+        function sendMessage() {
+            var messageInput = document.getElementById('messageInput');
+            var message = messageInput.value;
+            socket.emit('message', message);
+            messageArea.innerHTML += '<div style="border: 1px solid #ccc;border-radius:10px; padding: 5px; margin-bottom: 10px; background-color: rgb(174, 214, 241); max-width: 300px; word-wrap: break-word;">' + message + '</div>';
+            // Effacer le champ de saisie après l'envoi du message
+            messageInput.value = '';
+        }
+
+    
+
+    // Fonction pour afficher les détails de l'utilisateur lorsque son nom est cliqué
+$(document).on('click', '.recipient .recipient-name', function ShowUserDetails() {
+    var userId = $(this).data('userid');
+    // Effectuer une requête AJAX pour récupérer les données de l'utilisateur
+    $.ajax({
+        type: "GET",
+        url: '/Location/GetData/' + userId,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function (userData) {
+            // Construire une chaîne HTML avec toutes les informations de l'utilisateur
+            var userDetailsHtml = '<p>Nom: ' + userData.nom + '</p>' +
+                                  '<p>Prénom: ' + userData.prenom + '</p>' +
+                                  '<p>Téléphone: ' + userData.telephone + '</p>' +
+                                  '<p>Date de Naissance: ' + userData.dateDeNaissance + '</p>' +
+                                  '<p>Gouvernorat: ' + userData.gouvernorat + '</p>' +
+                                  '<p>Délégation: ' + userData.delegation + '</p>' +
+                                  '<p>Code Postal: ' + userData.codePostal + '</p>' +
+                                  '<p>Groupe Sanguin: ' + userData.groupeSanguin + '</p>' +
+                                  '<p>Taille: ' + userData.taille + '</p>' +
+                                  '<p>Poids: ' + userData.poids + '</p>' +
+                                  '<p>Âge: ' + userData.age + '</p>' +
+                                  '<p>longitude: ' + userData.longitude + '</p>' +
+                                  '<p>latitude: ' + userData.latitude + '</p>' ;
+            // Afficher les détails de l'utilisateur dans la div #userData
+            $('#userData').html(userDetailsHtml);
+            // Afficher le popup userDetailsContainer
+            $('#userDetailsContainer').show();
+        },
+        error: function (response) {
+            console.error(response);
+        }
+    });
+});
+
+
+    // Initialiser la carte avec les données de l'utilisateur
+    $(function () {
+        var userId = @ViewBag.UserId; // Récupérer l'ID de l'utilisateur depuis ViewBag
+        // Effectuer une requête AJAX pour récupérer les données de l'utilisateur
+        $.ajax({
+            type: "GET",
+            url: '/Location/GetData/' + userId,
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (userData) {
+                // Créer une carte Leaflet avec la localisation de l'utilisateur
+                var map = L.map('map').setView([userData.latitude, userData.longitude], 8);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+                // Ajouter un marqueur à la position de l'utilisateur
+                var marker = L.marker([userData.latitude, userData.longitude]).addTo(map);
+            },
+            error: function (response) {
+                console.error(response);
+            }
+        });
+
+        
+    });
+</script>
+
+</body>
+</html>

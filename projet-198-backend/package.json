@@ -1,0 +1,29 @@
+{
+  "name": "projet-198-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "crypto-uid": "^0.4.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.2.3",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.3",
+    "nodemailer": "^6.10.1",
+    "socket.io": "^4.8.1",
+    "twilio": "^5.0.2",
+    "ws": "^8.16.0",
+    "zod": "^3.24.3"
+  },
+  "description": ""
+}

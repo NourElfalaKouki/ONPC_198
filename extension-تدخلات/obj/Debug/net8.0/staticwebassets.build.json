@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "oIfl5XhqEiG5IIA1OSuP8DKwXQi197D0AwkJZf72K9Q=",
+  "Source": "Test",
+  "BasePath": "_content/Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Test\\wwwroot",
+      "Source": "Test",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-right-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/arrow-right-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "187kij43l0",
+      "Integrity": "kd9BdnEGrWUahvBrZxOTNW8ZQ4eKq2tf21fygFlbwSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\arrow-right-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-turn-down-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/arrow-turn-down-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9a5eoozdi2",
+      "Integrity": "Qfryg1DNA5Qcyr3I518gQQIafVP1V/Zk91m6cceOsqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\arrow-turn-down-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bell-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/bell-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk3toought",
+      "Integrity": "nfDXmKV+WESNbndJ0tonQgrLwzMI4M561Trkv1SWhtE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bell-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bolt-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/bolt-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m608k4h3gc",
+      "Integrity": "Ell0pKeq/z+5nFaY6mh9wbAJs4ZJqctq8yY4l06Gcmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bolt-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1) copy.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/chart-column-solid (1) copy#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6169ewa8o4",
+      "Integrity": "ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\chart-column-solid (1) copy.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/chart-column-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6169ewa8o4",
+      "Integrity": "ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\chart-column-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/chart-column-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64i0sfx1l1",
+      "Integrity": "tuPF1QjbyctHyLFyqcG2eZJ6WvDe6pomERdfX4HF6HQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\chart-column-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chevron-down-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/chevron-down-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmp09qwfzq",
+      "Integrity": "vJJOOJHmTeZPL7EHiP47Jr+r5t+azofqlCekBXi7LIA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\chevron-down-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\circle-nodes-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/circle-nodes-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64n1pwuldz",
+      "Integrity": "RoT+ezyocmdQuUzsFpk9/f/qGnLbys8bMA4VtV9scuo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\circle-nodes-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/comment-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "84muhryn46",
+      "Integrity": "eKjct03fAbB8hNN8uS/+uhvR+XXGxJ2p48os8NkoRS4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\comment-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/comment-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4apo6jzros",
+      "Integrity": "BIji6iV3C0ntpIohX3VvULk8YPElqvdOiii76nWWic8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\comment-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/ellipsis-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1kdklitusk",
+      "Integrity": "oY7UKR4B1qtA3keyKJk0ZV1lsRcYty3aqKTgkJ53V+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ellipsis-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/ellipsis-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bnpwcuput",
+      "Integrity": "vc3PTfsyaHf9m+7DmbcA8BmxfpenKTeLwsooMZ8OmIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ellipsis-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\file-lines-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/file-lines-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzyc9k1nfr",
+      "Integrity": "5XoZK3ndeRTRr2Gt2qod7xREVnIZsdz0LBjFezviLSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\file-lines-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\house-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/house-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r0i11gyw1z",
+      "Integrity": "exIq+MIAoQBj0pTpd4198sur4npJqAzPDU+08m5AiYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\house-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\location-dot-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/location-dot-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zpum612goq",
+      "Integrity": "+TCJxYccatfe9/XXFhu7/XaEE2P2Z9dPe8yUDm6PWGU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\location-dot-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\logo-min.png",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/logo-min#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xms7mun9db",
+      "Integrity": "R7VD4gbLjwHPLc7FLrEuvX2Ant6aR0POHeZxnZE/hFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo-min.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\message-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/message-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w10plecsvo",
+      "Integrity": "hLnjN/C6KL0jyl65pSuvB321GuEDYoG6fD3B8y2xMvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\message-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/minus-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9tmjnubno",
+      "Integrity": "s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\minus-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (2).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/minus-solid (2)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9tmjnubno",
+      "Integrity": "s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\minus-solid (2).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/minus-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdf5k0qotc",
+      "Integrity": "FxHfxrSuxXACDo4rLfTi6oAlyFj8Nypa0UROPMuYTyc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\minus-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paper-plane-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/paper-plane-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1pb25qf6fk",
+      "Integrity": "teQs/nBZHzcVgXUUHL6hRedHARZyQU/azBLbK6EJ1qw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\paper-plane-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paperclip-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/paperclip-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyjuw8tycb",
+      "Integrity": "m1CwynKkbWMH56mI8CMKGsUVHsWUc07yjoHztT6wpNI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\paperclip-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/phone-volume-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nxkwn9nuay",
+      "Integrity": "BaNzEe9876SLuqmg2M5CyK5QRUrEUcX6/p6fyuQJCRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\phone-volume-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/phone-volume-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qm6grgsjve",
+      "Integrity": "kkBF3MYr3KAx6MVMvyyA8LQ8p+tdrLn3o+eTj/JBIsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\phone-volume-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\print-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/print-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "agvljqk50w",
+      "Integrity": "hlJA+wb4Oe+V1AKmzO25PfyFClyrsDDkOlAhkoIRM6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\print-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid (1).svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/signal-solid (1)#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7chaxgaj2w",
+      "Integrity": "uSh5DUctEU+eBHOypMxflvtCnTKAEKDljL0xL+Q9EXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\signal-solid (1).svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/signal-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5lxxskym9c",
+      "Integrity": "STTd1paGa68N+tpxGgmBraXwO8yKTb60Y3NOeuIBzfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\signal-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\toolbox-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/toolbox-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tu0b4zdxc5",
+      "Integrity": "FdmsnBqlbbppYUwGCdtGNkqe3TJJiU5JnNmPU0wOX4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\toolbox-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\user-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/user-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ckknpzh07",
+      "Integrity": "+I5DvjEG1hA8cplphvHt7ctIW26yiebDlzOayMrqj78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\user-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\users-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/users-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n3hcno9940",
+      "Integrity": "k4iBLpuUBUBL/U9mEpG+gNJEexZ3WfZX9kWHd3y2YUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\users-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\wrench-solid.svg",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "img/wrench-solid#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42xg9j2u6b",
+      "Integrity": "pH/XsAsa9d3DimJ1EifJLvOFmtQtv6rTkhxNakmD/38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\wrench-solid.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\location.css",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "Style/location#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhurmps4n7",
+      "Integrity": "GW0jap+rEUt9nhuAG/XvR28NSBpBz8CrX58f9iwH4X8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\location.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\map.css",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "Style/map#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tpmbupn0i",
+      "Integrity": "2mBu9oLePzLxqhBDUxMkDHvps3CKx4cXNNdhXlkfJe0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style\\map.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/arrow-right-solid.187kij43l0.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-right-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kd9BdnEGrWUahvBrZxOTNW8ZQ4eKq2tf21fygFlbwSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "187kij43l0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/arrow-right-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kd9BdnEGrWUahvBrZxOTNW8ZQ4eKq2tf21fygFlbwSo="
+        }
+      ]
+    },
+    {
+      "Route": "img/arrow-right-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-right-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kd9BdnEGrWUahvBrZxOTNW8ZQ4eKq2tf21fygFlbwSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kd9BdnEGrWUahvBrZxOTNW8ZQ4eKq2tf21fygFlbwSo="
+        }
+      ]
+    },
+    {
+      "Route": "img/arrow-turn-down-solid.9a5eoozdi2.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-turn-down-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qfryg1DNA5Qcyr3I518gQQIafVP1V/Zk91m6cceOsqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9a5eoozdi2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/arrow-turn-down-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qfryg1DNA5Qcyr3I518gQQIafVP1V/Zk91m6cceOsqI="
+        }
+      ]
+    },
+    {
+      "Route": "img/arrow-turn-down-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-turn-down-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qfryg1DNA5Qcyr3I518gQQIafVP1V/Zk91m6cceOsqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qfryg1DNA5Qcyr3I518gQQIafVP1V/Zk91m6cceOsqI="
+        }
+      ]
+    },
+    {
+      "Route": "img/bell-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bell-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nfDXmKV+WESNbndJ0tonQgrLwzMI4M561Trkv1SWhtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nfDXmKV+WESNbndJ0tonQgrLwzMI4M561Trkv1SWhtE="
+        }
+      ]
+    },
+    {
+      "Route": "img/bell-solid.zk3toought.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bell-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nfDXmKV+WESNbndJ0tonQgrLwzMI4M561Trkv1SWhtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk3toought"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bell-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nfDXmKV+WESNbndJ0tonQgrLwzMI4M561Trkv1SWhtE="
+        }
+      ]
+    },
+    {
+      "Route": "img/bolt-solid.m608k4h3gc.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bolt-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ell0pKeq/z+5nFaY6mh9wbAJs4ZJqctq8yY4l06Gcmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m608k4h3gc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bolt-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ell0pKeq/z+5nFaY6mh9wbAJs4ZJqctq8yY4l06Gcmg="
+        }
+      ]
+    },
+    {
+      "Route": "img/bolt-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bolt-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ell0pKeq/z+5nFaY6mh9wbAJs4ZJqctq8yY4l06Gcmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ell0pKeq/z+5nFaY6mh9wbAJs4ZJqctq8yY4l06Gcmg="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid (1) copy.6169ewa8o4.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1) copy.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6169ewa8o4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/chart-column-solid (1) copy.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid (1) copy.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1) copy.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid (1).6169ewa8o4.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6169ewa8o4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/chart-column-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ynSC57dsONdJvhcrowdeny/BKUBskxO7MWckRijBTI4="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid.64i0sfx1l1.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tuPF1QjbyctHyLFyqcG2eZJ6WvDe6pomERdfX4HF6HQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64i0sfx1l1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/chart-column-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tuPF1QjbyctHyLFyqcG2eZJ6WvDe6pomERdfX4HF6HQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/chart-column-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tuPF1QjbyctHyLFyqcG2eZJ6WvDe6pomERdfX4HF6HQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tuPF1QjbyctHyLFyqcG2eZJ6WvDe6pomERdfX4HF6HQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/chevron-down-solid.kmp09qwfzq.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chevron-down-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vJJOOJHmTeZPL7EHiP47Jr+r5t+azofqlCekBXi7LIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmp09qwfzq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/chevron-down-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vJJOOJHmTeZPL7EHiP47Jr+r5t+azofqlCekBXi7LIA="
+        }
+      ]
+    },
+    {
+      "Route": "img/chevron-down-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chevron-down-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vJJOOJHmTeZPL7EHiP47Jr+r5t+azofqlCekBXi7LIA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vJJOOJHmTeZPL7EHiP47Jr+r5t+azofqlCekBXi7LIA="
+        }
+      ]
+    },
+    {
+      "Route": "img/circle-nodes-solid.64n1pwuldz.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\circle-nodes-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RoT+ezyocmdQuUzsFpk9/f/qGnLbys8bMA4VtV9scuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64n1pwuldz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/circle-nodes-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RoT+ezyocmdQuUzsFpk9/f/qGnLbys8bMA4VtV9scuo="
+        }
+      ]
+    },
+    {
+      "Route": "img/circle-nodes-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\circle-nodes-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RoT+ezyocmdQuUzsFpk9/f/qGnLbys8bMA4VtV9scuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RoT+ezyocmdQuUzsFpk9/f/qGnLbys8bMA4VtV9scuo="
+        }
+      ]
+    },
+    {
+      "Route": "img/comment-solid (1).84muhryn46.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKjct03fAbB8hNN8uS/+uhvR+XXGxJ2p48os8NkoRS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "84muhryn46"
+        },
+        {
+          "Name": "label",
+          "Value": "img/comment-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKjct03fAbB8hNN8uS/+uhvR+XXGxJ2p48os8NkoRS4="
+        }
+      ]
+    },
+    {
+      "Route": "img/comment-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKjct03fAbB8hNN8uS/+uhvR+XXGxJ2p48os8NkoRS4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKjct03fAbB8hNN8uS/+uhvR+XXGxJ2p48os8NkoRS4="
+        }
+      ]
+    },
+    {
+      "Route": "img/comment-solid.4apo6jzros.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIji6iV3C0ntpIohX3VvULk8YPElqvdOiii76nWWic8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4apo6jzros"
+        },
+        {
+          "Name": "label",
+          "Value": "img/comment-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BIji6iV3C0ntpIohX3VvULk8YPElqvdOiii76nWWic8="
+        }
+      ]
+    },
+    {
+      "Route": "img/comment-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIji6iV3C0ntpIohX3VvULk8YPElqvdOiii76nWWic8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BIji6iV3C0ntpIohX3VvULk8YPElqvdOiii76nWWic8="
+        }
+      ]
+    },
+    {
+      "Route": "img/ellipsis-solid (1).1kdklitusk.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oY7UKR4B1qtA3keyKJk0ZV1lsRcYty3aqKTgkJ53V+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1kdklitusk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ellipsis-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oY7UKR4B1qtA3keyKJk0ZV1lsRcYty3aqKTgkJ53V+M="
+        }
+      ]
+    },
+    {
+      "Route": "img/ellipsis-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oY7UKR4B1qtA3keyKJk0ZV1lsRcYty3aqKTgkJ53V+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oY7UKR4B1qtA3keyKJk0ZV1lsRcYty3aqKTgkJ53V+M="
+        }
+      ]
+    },
+    {
+      "Route": "img/ellipsis-solid.7bnpwcuput.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vc3PTfsyaHf9m+7DmbcA8BmxfpenKTeLwsooMZ8OmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bnpwcuput"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ellipsis-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vc3PTfsyaHf9m+7DmbcA8BmxfpenKTeLwsooMZ8OmIQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/ellipsis-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vc3PTfsyaHf9m+7DmbcA8BmxfpenKTeLwsooMZ8OmIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vc3PTfsyaHf9m+7DmbcA8BmxfpenKTeLwsooMZ8OmIQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/file-lines-solid.fzyc9k1nfr.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\file-lines-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5XoZK3ndeRTRr2Gt2qod7xREVnIZsdz0LBjFezviLSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzyc9k1nfr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/file-lines-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5XoZK3ndeRTRr2Gt2qod7xREVnIZsdz0LBjFezviLSE="
+        }
+      ]
+    },
+    {
+      "Route": "img/file-lines-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\file-lines-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5XoZK3ndeRTRr2Gt2qod7xREVnIZsdz0LBjFezviLSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5XoZK3ndeRTRr2Gt2qod7xREVnIZsdz0LBjFezviLSE="
+        }
+      ]
+    },
+    {
+      "Route": "img/house-solid.r0i11gyw1z.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\house-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exIq+MIAoQBj0pTpd4198sur4npJqAzPDU+08m5AiYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0i11gyw1z"
+        },
+        {
+          "Name": "label",
+          "Value": "img/house-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exIq+MIAoQBj0pTpd4198sur4npJqAzPDU+08m5AiYw="
+        }
+      ]
+    },
+    {
+      "Route": "img/house-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\house-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exIq+MIAoQBj0pTpd4198sur4npJqAzPDU+08m5AiYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exIq+MIAoQBj0pTpd4198sur4npJqAzPDU+08m5AiYw="
+        }
+      ]
+    },
+    {
+      "Route": "img/location-dot-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\location-dot-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+TCJxYccatfe9/XXFhu7/XaEE2P2Z9dPe8yUDm6PWGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+TCJxYccatfe9/XXFhu7/XaEE2P2Z9dPe8yUDm6PWGU="
+        }
+      ]
+    },
+    {
+      "Route": "img/location-dot-solid.zpum612goq.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\location-dot-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+TCJxYccatfe9/XXFhu7/XaEE2P2Z9dPe8yUDm6PWGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zpum612goq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/location-dot-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+TCJxYccatfe9/XXFhu7/XaEE2P2Z9dPe8yUDm6PWGU="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo-min.png",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\logo-min.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7VD4gbLjwHPLc7FLrEuvX2Ant6aR0POHeZxnZE/hFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7VD4gbLjwHPLc7FLrEuvX2Ant6aR0POHeZxnZE/hFU="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo-min.xms7mun9db.png",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\logo-min.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7VD4gbLjwHPLc7FLrEuvX2Ant6aR0POHeZxnZE/hFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xms7mun9db"
+        },
+        {
+          "Name": "label",
+          "Value": "img/logo-min.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7VD4gbLjwHPLc7FLrEuvX2Ant6aR0POHeZxnZE/hFU="
+        }
+      ]
+    },
+    {
+      "Route": "img/message-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\message-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLnjN/C6KL0jyl65pSuvB321GuEDYoG6fD3B8y2xMvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLnjN/C6KL0jyl65pSuvB321GuEDYoG6fD3B8y2xMvY="
+        }
+      ]
+    },
+    {
+      "Route": "img/message-solid.w10plecsvo.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\message-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLnjN/C6KL0jyl65pSuvB321GuEDYoG6fD3B8y2xMvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w10plecsvo"
+        },
+        {
+          "Name": "label",
+          "Value": "img/message-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLnjN/C6KL0jyl65pSuvB321GuEDYoG6fD3B8y2xMvY="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid (1).v9tmjnubno.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9tmjnubno"
+        },
+        {
+          "Name": "label",
+          "Value": "img/minus-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid (2).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (2).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid (2).v9tmjnubno.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (2).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9tmjnubno"
+        },
+        {
+          "Name": "label",
+          "Value": "img/minus-solid (2).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4zDgmq/eDclcBDHCVVA9c5NVyrLqSFVj+3YKRjGA/Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid.jdf5k0qotc.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FxHfxrSuxXACDo4rLfTi6oAlyFj8Nypa0UROPMuYTyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdf5k0qotc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/minus-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FxHfxrSuxXACDo4rLfTi6oAlyFj8Nypa0UROPMuYTyc="
+        }
+      ]
+    },
+    {
+      "Route": "img/minus-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FxHfxrSuxXACDo4rLfTi6oAlyFj8Nypa0UROPMuYTyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FxHfxrSuxXACDo4rLfTi6oAlyFj8Nypa0UROPMuYTyc="
+        }
+      ]
+    },
+    {
+      "Route": "img/paper-plane-solid.1pb25qf6fk.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paper-plane-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teQs/nBZHzcVgXUUHL6hRedHARZyQU/azBLbK6EJ1qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1pb25qf6fk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/paper-plane-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-teQs/nBZHzcVgXUUHL6hRedHARZyQU/azBLbK6EJ1qw="
+        }
+      ]
+    },
+    {
+      "Route": "img/paper-plane-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paper-plane-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teQs/nBZHzcVgXUUHL6hRedHARZyQU/azBLbK6EJ1qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-teQs/nBZHzcVgXUUHL6hRedHARZyQU/azBLbK6EJ1qw="
+        }
+      ]
+    },
+    {
+      "Route": "img/paperclip-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paperclip-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m1CwynKkbWMH56mI8CMKGsUVHsWUc07yjoHztT6wpNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m1CwynKkbWMH56mI8CMKGsUVHsWUc07yjoHztT6wpNI="
+        }
+      ]
+    },
+    {
+      "Route": "img/paperclip-solid.zyjuw8tycb.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paperclip-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m1CwynKkbWMH56mI8CMKGsUVHsWUc07yjoHztT6wpNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyjuw8tycb"
+        },
+        {
+          "Name": "label",
+          "Value": "img/paperclip-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m1CwynKkbWMH56mI8CMKGsUVHsWUc07yjoHztT6wpNI="
+        }
+      ]
+    },
+    {
+      "Route": "img/phone-volume-solid (1).nxkwn9nuay.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BaNzEe9876SLuqmg2M5CyK5QRUrEUcX6/p6fyuQJCRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nxkwn9nuay"
+        },
+        {
+          "Name": "label",
+          "Value": "img/phone-volume-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BaNzEe9876SLuqmg2M5CyK5QRUrEUcX6/p6fyuQJCRE="
+        }
+      ]
+    },
+    {
+      "Route": "img/phone-volume-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BaNzEe9876SLuqmg2M5CyK5QRUrEUcX6/p6fyuQJCRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BaNzEe9876SLuqmg2M5CyK5QRUrEUcX6/p6fyuQJCRE="
+        }
+      ]
+    },
+    {
+      "Route": "img/phone-volume-solid.qm6grgsjve.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkBF3MYr3KAx6MVMvyyA8LQ8p+tdrLn3o+eTj/JBIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qm6grgsjve"
+        },
+        {
+          "Name": "label",
+          "Value": "img/phone-volume-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkBF3MYr3KAx6MVMvyyA8LQ8p+tdrLn3o+eTj/JBIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/phone-volume-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkBF3MYr3KAx6MVMvyyA8LQ8p+tdrLn3o+eTj/JBIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkBF3MYr3KAx6MVMvyyA8LQ8p+tdrLn3o+eTj/JBIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/print-solid.agvljqk50w.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\print-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hlJA+wb4Oe+V1AKmzO25PfyFClyrsDDkOlAhkoIRM6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agvljqk50w"
+        },
+        {
+          "Name": "label",
+          "Value": "img/print-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hlJA+wb4Oe+V1AKmzO25PfyFClyrsDDkOlAhkoIRM6M="
+        }
+      ]
+    },
+    {
+      "Route": "img/print-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\print-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hlJA+wb4Oe+V1AKmzO25PfyFClyrsDDkOlAhkoIRM6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hlJA+wb4Oe+V1AKmzO25PfyFClyrsDDkOlAhkoIRM6M="
+        }
+      ]
+    },
+    {
+      "Route": "img/signal-solid (1).7chaxgaj2w.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSh5DUctEU+eBHOypMxflvtCnTKAEKDljL0xL+Q9EXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7chaxgaj2w"
+        },
+        {
+          "Name": "label",
+          "Value": "img/signal-solid (1).svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSh5DUctEU+eBHOypMxflvtCnTKAEKDljL0xL+Q9EXs="
+        }
+      ]
+    },
+    {
+      "Route": "img/signal-solid (1).svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid (1).svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSh5DUctEU+eBHOypMxflvtCnTKAEKDljL0xL+Q9EXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSh5DUctEU+eBHOypMxflvtCnTKAEKDljL0xL+Q9EXs="
+        }
+      ]
+    },
+    {
+      "Route": "img/signal-solid.5lxxskym9c.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"STTd1paGa68N+tpxGgmBraXwO8yKTb60Y3NOeuIBzfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lxxskym9c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/signal-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-STTd1paGa68N+tpxGgmBraXwO8yKTb60Y3NOeuIBzfg="
+        }
+      ]
+    },
+    {
+      "Route": "img/signal-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"STTd1paGa68N+tpxGgmBraXwO8yKTb60Y3NOeuIBzfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-STTd1paGa68N+tpxGgmBraXwO8yKTb60Y3NOeuIBzfg="
+        }
+      ]
+    },
+    {
+      "Route": "img/toolbox-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\toolbox-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmsnBqlbbppYUwGCdtGNkqe3TJJiU5JnNmPU0wOX4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmsnBqlbbppYUwGCdtGNkqe3TJJiU5JnNmPU0wOX4o="
+        }
+      ]
+    },
+    {
+      "Route": "img/toolbox-solid.tu0b4zdxc5.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\toolbox-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdmsnBqlbbppYUwGCdtGNkqe3TJJiU5JnNmPU0wOX4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tu0b4zdxc5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/toolbox-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdmsnBqlbbppYUwGCdtGNkqe3TJJiU5JnNmPU0wOX4o="
+        }
+      ]
+    },
+    {
+      "Route": "img/user-solid.8ckknpzh07.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\user-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+I5DvjEG1hA8cplphvHt7ctIW26yiebDlzOayMrqj78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ckknpzh07"
+        },
+        {
+          "Name": "label",
+          "Value": "img/user-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+I5DvjEG1hA8cplphvHt7ctIW26yiebDlzOayMrqj78="
+        }
+      ]
+    },
+    {
+      "Route": "img/user-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\user-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+I5DvjEG1hA8cplphvHt7ctIW26yiebDlzOayMrqj78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+I5DvjEG1hA8cplphvHt7ctIW26yiebDlzOayMrqj78="
+        }
+      ]
+    },
+    {
+      "Route": "img/users-solid.n3hcno9940.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\users-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4iBLpuUBUBL/U9mEpG+gNJEexZ3WfZX9kWHd3y2YUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3hcno9940"
+        },
+        {
+          "Name": "label",
+          "Value": "img/users-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4iBLpuUBUBL/U9mEpG+gNJEexZ3WfZX9kWHd3y2YUY="
+        }
+      ]
+    },
+    {
+      "Route": "img/users-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\users-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4iBLpuUBUBL/U9mEpG+gNJEexZ3WfZX9kWHd3y2YUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4iBLpuUBUBL/U9mEpG+gNJEexZ3WfZX9kWHd3y2YUY="
+        }
+      ]
+    },
+    {
+      "Route": "img/wrench-solid.42xg9j2u6b.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\wrench-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pH/XsAsa9d3DimJ1EifJLvOFmtQtv6rTkhxNakmD/38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42xg9j2u6b"
+        },
+        {
+          "Name": "label",
+          "Value": "img/wrench-solid.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pH/XsAsa9d3DimJ1EifJLvOFmtQtv6rTkhxNakmD/38="
+        }
+      ]
+    },
+    {
+      "Route": "img/wrench-solid.svg",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\wrench-solid.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pH/XsAsa9d3DimJ1EifJLvOFmtQtv6rTkhxNakmD/38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pH/XsAsa9d3DimJ1EifJLvOFmtQtv6rTkhxNakmD/38="
+        }
+      ]
+    },
+    {
+      "Route": "Style/location.css",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\location.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0jap+rEUt9nhuAG/XvR28NSBpBz8CrX58f9iwH4X8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0jap+rEUt9nhuAG/XvR28NSBpBz8CrX58f9iwH4X8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/location.lhurmps4n7.css",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\location.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0jap+rEUt9nhuAG/XvR28NSBpBz8CrX58f9iwH4X8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhurmps4n7"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/location.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0jap+rEUt9nhuAG/XvR28NSBpBz8CrX58f9iwH4X8="
+        }
+      ]
+    },
+    {
+      "Route": "Style/map.2tpmbupn0i.css",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\map.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mBu9oLePzLxqhBDUxMkDHvps3CKx4cXNNdhXlkfJe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tpmbupn0i"
+        },
+        {
+          "Name": "label",
+          "Value": "Style/map.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mBu9oLePzLxqhBDUxMkDHvps3CKx4cXNNdhXlkfJe0="
+        }
+      ]
+    },
+    {
+      "Route": "Style/map.css",
+      "AssetFile": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\map.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mBu9oLePzLxqhBDUxMkDHvps3CKx4cXNNdhXlkfJe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mBu9oLePzLxqhBDUxMkDHvps3CKx4cXNNdhXlkfJe0="
+        }
+      ]
+    }
+  ]
+}

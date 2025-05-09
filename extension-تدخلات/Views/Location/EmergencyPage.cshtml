@@ -1,0 +1,176 @@
+@{
+    ViewData["Title"] = "Location";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js"></script>
+
+    <link href="~/Style/map.css" rel="stylesheet"/>
+  
+</head>
+<body>
+    <div class="NavBar">
+        <div class="user">
+            <p>سناء الطرابلسي</p>
+            <img src="~/img/user-solid.svg" alt="">
+            <img src="~/img/bell-solid.svg" alt="">
+        </div>
+        <div class="Title">
+            <div>
+                <h3>مركز العمليات</h3>
+            </div>
+            <div class="ONPC">
+                <h3>الديوان الوطني للحماية المدنية</h3>
+                <img src="~/img/logo-min.png" alt="">
+            </div>
+            
+        </div>
+        <div class="Content">
+            <div class="Component">
+                <a href="showlocation.php">
+                <h4>198</h4> &nbsp;
+                <img src="~/img/phone-volume-solid (1).svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt=""> &nbsp;
+                <h4>الطباعة</h4>&nbsp;
+                <img src="~/img/print-solid.svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt="">&nbsp;
+                <h4>الإحصائيات</h4>&nbsp;
+                <img src="~/img/chart-column-solid (1).svg" alt="">
+                </a>
+            </div>
+            <div class="Component">
+                <a href="">
+                <h4>التعطب و الإصلاح</h4>&nbsp;
+                <img src="~/img/wrench-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>متابعة الأفراد</h4>&nbsp;
+                <img src="~/img/users-solid.svg" alt="">
+                </a>
+            </div>
+           
+            <div class="Component">
+                <a href="">
+                <h4>إشعار فوري</h4>&nbsp;
+                <img src="~/img/bolt-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                <h4>الحوصلة الصحية</h4>&nbsp;
+                <img src="~/img/circle-nodes-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>التفقدات</h4>&nbsp;
+                <img src="~/img/toolbox-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                <img src="~/img/chevron-down-solid.svg" alt="">&nbsp;
+                <h4>الحراسات الوقائية</h4>&nbsp;
+                <img src="~/img/signal-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+                
+                <h4>التعزيز</h4>&nbsp;
+                <img src="~/img/arrow-turn-down-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+               
+                <h4>الإطلاع على التدخلات</h4>&nbsp;
+                <img src="~/img/file-lines-solid.svg" alt="">
+                </a>
+            </div>
+           
+            <div class="Component">
+                <a href="">
+                
+                <h4>التدخلات الجارية</h4>&nbsp;
+                <img src="~/img/phone-volume-solid.svg" alt="">
+                </a>
+            </div>
+            
+            <div class="Component">
+                <a href="">
+               
+                <h4>لوحة التحكم</h4>&nbsp;
+                <img src="~/img/house-solid.svg" alt="">
+                </a>
+            </div>
+            
+            
+        </div>
+    </div>
+</body>
+</html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.2.0/socket.io.js"></script>
+
+<script>
+    const socket = io('http://localhost:4000');
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.2.0/socket.io.js"></script>
+
+<script>
+    const socket = io('http://localhost:4000');
+    // Écouter l'événement newMessageAlert
+    socket.on('newMessageAlert', (userId) => {
+        // Afficher une boîte de dialogue de confirmation demandant à l'utilisateur s'il souhaite voir le message
+        // Vérifie si les notifications sont prises en charge par le navigateur
+if ("Notification" in window) {
+    // Demander la permission d'afficher des notifications
+    Notification.requestPermission().then(function(result) {
+        if (result === "granted") {
+            // Créer et afficher la notification
+            var notification = new Notification("Nouveau message reçu", {
+                body: "Voulez-vous voir le message ?",
+            });
+
+            // Redirection lorsque l'utilisateur clique sur la notification
+            notification.onclick = function(event) {
+                event.preventDefault(); // Empêche la fermeture de l'onglet
+                window.location.href = `/Location/Map/${userId}`;
+            };
+        }
+    });
+} else {
+    // Si les notifications ne sont pas prises en charge, afficher une alerte normale
+    alert("Nouveau message reçu. Voulez-vous voir le message ?");
+    window.location.href = `/Location/Map/${userId}`;
+}
+
+    });
+</script>
+
+

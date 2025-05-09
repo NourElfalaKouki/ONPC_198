@@ -1,0 +1,174 @@
+
+@{
+    ViewData["Title"] = "Location";
+}
+
+<h1>Call</h1>
+<div id="location"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.2.0/socket.io.js"></script>
+
+<script>
+    const socket = io('http://localhost:4000');
+    // Écoute de l'événement 'offer' émis par le serveur
+    socket.on('offer', async (offer) => {
+    // Création de la connexion RTCPeer pour l'audio
+    const localPeerConnection = new RTCPeerConnection();
+    const remotePeerConnection = new RTCPeerConnection();
+
+    // Ajout du flux audio local à la connexion RTCPeer
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    stream.getTracks().forEach(track => localPeerConnection.addTrack(track, stream));
+
+    // Établissement des gestionnaires d'événements pour les candidats ICE
+    localPeerConnection.addEventListener('icecandidate', event => {
+        if (event.candidate) {
+            remotePeerConnection.addIceCandidate(event.candidate);
+        }
+    });
+    remotePeerConnection.addEventListener('icecandidate', event => {
+        if (event.candidate) {
+            localPeerConnection.addIceCandidate(event.candidate);
+        }
+    });
+
+    // Établissement du gestionnaire d'événements pour la réception des flux audio
+    remotePeerConnection.addEventListener('track', event => {
+        // Réception des données audio du client distant
+        const remoteStream = new MediaStream();
+        remoteStream.addTrack(event.track);
+        // Jouer le flux audio du client distant
+        const audioElement = new Audio();
+        audioElement.srcObject = remoteStream;
+        audioElement.play();
+    });
+
+    // Réception de l'offre et configuration de la connexion RTCPeer distante
+    await remotePeerConnection.setRemoteDescription(offer);
+
+    // Création de la réponse à l'offre
+    const answer = await remotePeerConnection.createAnswer();
+    await remotePeerConnection.setLocalDescription(answer);
+
+    // Envoi de la réponse au serveur pour acheminement vers l'autre client
+});
+
+// Réception de l'offre et envoi au serveur pour acheminement vers l'autre client
+function receiveOfferAndAnswer(offer) {
+    socket.emit('answer', offer);
+}
+
+// Événement déclenché lorsqu'un appel est reçu
+socket.on('callFromMobile', async ({ userId }) => {
+    console.log('Incoming call');
+
+    // Demander à l'utilisateur s'il veut accepter l'appel
+    const shouldAcceptCall = confirm('Incoming call. Do you want to accept?');
+
+    if (shouldAcceptCall) {
+        // Accepter l'appel
+        // Envoyer une réponse au serveur pour indiquer que l'appel est accepté
+        socket.emit('answercall');
+        acceptCall(); // Initialisez la connexion audio
+    } else {
+        // Rejeter l'appel
+        // Envoyer une réponse au serveur pour indiquer que l'appel est rejeté
+        socket.emit('rejectcall');
+    }
+});
+
+
+// Fonction pour accepter l'appel
+async function acceptCall() {
+    // Création de la connexion RTCPeer pour l'audio
+    const localPeerConnection = new RTCPeerConnection();
+    const remotePeerConnection = new RTCPeerConnection();
+
+    // Ajout du flux audio local à la connexion RTCPeer
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    stream.getTracks().forEach(track => localPeerConnection.addTrack(track, stream));
+
+    // Établissement des gestionnaires d'événements pour les candidats ICE
+    localPeerConnection.addEventListener('icecandidate', event => {
+        if (event.candidate) {
+            remotePeerConnection.addIceCandidate(event.candidate);
+        }
+    });
+    remotePeerConnection.addEventListener('icecandidate', event => {
+        if (event.candidate) {
+            localPeerConnection.addIceCandidate(event.candidate);
+        }
+    });
+
+    // Établissement du gestionnaire d'événements pour la réception des flux audio
+    remotePeerConnection.addEventListener('track', event => {
+        // Réception des données audio du client distant
+        const remoteStream = new MediaStream();
+        remoteStream.addTrack(event.track);
+        // Jouer le flux audio du client distant
+        const audioElement = new Audio();
+        audioElement.srcObject = remoteStream;
+        audioElement.play();
+    });
+
+    // Création de l'offre (description de l'offre SDP) pour la connexion locale
+    const offer = await localPeerConnection.createOffer();
+    await localPeerConnection.setLocalDescription(offer);
+
+    // Envoi de l'offre au serveur pour acheminement vers l'autre client
+    socket.emit('offer', { offer });
+
+    // Création d'une réponse à l'offre et envoi au serveur pour acheminement vers l'autre client
+    socket.on('answer', async (data) => {
+        const answer = data.answer;
+        await remotePeerConnection.setRemoteDescription(answer);
+    });
+
+    // Afficher la barre pour terminer l'appel
+    showEndCallOption();
+}
+
+// Fonction pour rejeter l'appel
+function rejectCall() {
+    // Implémentez la logique pour rejeter l'appel
+}
+
+// Fonction pour afficher l'option pour terminer l'appel
+function showEndCallOption() {
+    const endCallBar = document.createElement('div');
+    endCallBar.id = 'endCallBar'; // Ajout d'un identifiant pour la barre
+    endCallBar.innerHTML = `
+        <div style="background-color: #333; color: #fff; padding: 10px;">
+            <button onclick="endCall()">End Call</button>
+        </div>
+    `;
+    document.body.prepend(endCallBar);
+}
+
+// Fonction pour terminer l'appel
+// Fonction pour terminer l'appel
+function endCall() {
+    // Supprimer la barre pour terminer l'appel
+    const endCallBar = document.getElementById('endCallBar');
+    if (endCallBar) {
+        endCallBar.remove();
+    }
+
+    // Arrêter la diffusion et la réception des flux audio
+    localPeerConnection.getSenders().forEach(sender => {
+        sender.track.stop();
+    });
+    remotePeerConnection.getReceivers().forEach(receiver => {
+        receiver.track.stop();
+    });
+
+    // Fermer les connexions RTCPeerConnection
+    localPeerConnection.close();
+    remotePeerConnection.close();
+
+    // Envoyer un événement au serveur pour informer l'autre partie que l'appel doit être terminé
+    socket.emit('endCall');
+}
+
+
+</script>
+

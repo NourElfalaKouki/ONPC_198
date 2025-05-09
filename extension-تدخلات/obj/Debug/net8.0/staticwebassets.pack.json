@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\location.css",
+      "PackagePath": "staticwebassets\\Style\\location.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\Style\\map.css",
+      "PackagePath": "staticwebassets\\Style\\map.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-right-solid.svg",
+      "PackagePath": "staticwebassets\\img\\arrow-right-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\arrow-turn-down-solid.svg",
+      "PackagePath": "staticwebassets\\img\\arrow-turn-down-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bell-solid.svg",
+      "PackagePath": "staticwebassets\\img\\bell-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\bolt-solid.svg",
+      "PackagePath": "staticwebassets\\img\\bolt-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1) copy.svg",
+      "PackagePath": "staticwebassets\\img\\chart-column-solid (1) copy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\chart-column-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chart-column-solid.svg",
+      "PackagePath": "staticwebassets\\img\\chart-column-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\chevron-down-solid.svg",
+      "PackagePath": "staticwebassets\\img\\chevron-down-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\circle-nodes-solid.svg",
+      "PackagePath": "staticwebassets\\img\\circle-nodes-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\comment-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\comment-solid.svg",
+      "PackagePath": "staticwebassets\\img\\comment-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\ellipsis-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\ellipsis-solid.svg",
+      "PackagePath": "staticwebassets\\img\\ellipsis-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\file-lines-solid.svg",
+      "PackagePath": "staticwebassets\\img\\file-lines-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\house-solid.svg",
+      "PackagePath": "staticwebassets\\img\\house-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\location-dot-solid.svg",
+      "PackagePath": "staticwebassets\\img\\location-dot-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\logo-min.png",
+      "PackagePath": "staticwebassets\\img\\logo-min.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\message-solid.svg",
+      "PackagePath": "staticwebassets\\img\\message-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\minus-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid (2).svg",
+      "PackagePath": "staticwebassets\\img\\minus-solid (2).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\minus-solid.svg",
+      "PackagePath": "staticwebassets\\img\\minus-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paper-plane-solid.svg",
+      "PackagePath": "staticwebassets\\img\\paper-plane-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\paperclip-solid.svg",
+      "PackagePath": "staticwebassets\\img\\paperclip-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\phone-volume-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\phone-volume-solid.svg",
+      "PackagePath": "staticwebassets\\img\\phone-volume-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\print-solid.svg",
+      "PackagePath": "staticwebassets\\img\\print-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid (1).svg",
+      "PackagePath": "staticwebassets\\img\\signal-solid (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\signal-solid.svg",
+      "PackagePath": "staticwebassets\\img\\signal-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\toolbox-solid.svg",
+      "PackagePath": "staticwebassets\\img\\toolbox-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\user-solid.svg",
+      "PackagePath": "staticwebassets\\img\\user-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\users-solid.svg",
+      "PackagePath": "staticwebassets\\img\\users-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub Hammami\\198\\extension-تدخلات\\wwwroot\\img\\wrench-solid.svg",
+      "PackagePath": "staticwebassets\\img\\wrench-solid.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Test.props",
+      "PackagePath": "build\\Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Test.props",
+      "PackagePath": "buildMultiTargeting\\Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Test.props",
+      "PackagePath": "buildTransitive\\Test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
