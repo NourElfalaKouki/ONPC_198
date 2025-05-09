@@ -3,7 +3,7 @@
 Project 198 is a full-stack solution consisting of:
 - A **mobile app** (React Native) for real-time user location tracking, audio calls, and instant messaging.(revamped)
 - A **backend** (Node.js) to manage user data and real-time communication via Socket.IO.(revamped)
-- A **web interface** (ASP.NET Core MVC) with Leaflet maps and WebSocket-based real-time messaging.(getting revamped)
+- A **web interface** (ASP.NET Core MVC) with Leaflet maps and WebSocket-based real-time messaging. (getting revamped)
 
 ![Project Architecture](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
